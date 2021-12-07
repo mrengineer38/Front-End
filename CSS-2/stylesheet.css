@@ -1,0 +1,38 @@
+#main{
+
+    width: auto;
+    padding: auto;
+    padding: 0%;
+    inline-size: auto;
+
+}
+
+.kutu {
+    text-align: center;
+    width: auto;
+    height: 64px;
+    padding: 10px;
+    margin: 1px;
+}
+
+#no1 {
+  width: 37%;
+  height: 74px;
+  background-color:#7EE5DA;
+  float: left;
+}
+
+#no2 {
+    width: 22%;
+    height: 74px;
+    background-color:#70CCC2;
+    float: left;
+    font-size: 13px;
+}
+#no3 {
+    width: 31%;
+    height: 74px;
+    background-color: #62B3AA;
+    float: left;
+    font-size: 13px;
+}
