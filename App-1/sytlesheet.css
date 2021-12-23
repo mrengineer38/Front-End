@@ -1,0 +1,46 @@
+.navbar {
+	opacity: 0.8;
+border-bottom: 1px solid #ffff; 
+}
+.jumbotron{
+	padding-top: 100px;
+	border-radius: 30px 0px 0px 30px;
+}
+.img-thumbnail {
+	border-radius: 30px 0px 0px 30px;	
+	background-color: rgba(0, 0, 0, 0.356);
+}
+.card{
+	border-radius: 30px 0px 0px 30px;
+	background-color: rgba(0, 0, 0, 0.156);
+}
+.card-title{
+	text-align: center;
+}
+.display-4 {
+	font-size: 40px;
+}
+.lead{
+	font-size: 13px;
+}
+#middle{
+	border-radius: 20px 20px 20px 20px;
+	text-align: right;
+}
+#date {
+	border-radius: 30px 10px 10px 30px;
+	background: rgba(2, 24, 34, 0.152);
+	text-align: right;
+}
+p:first-letter{
+	font-size: 40px;
+	padding-right: 5px;
+}
+
+a:hover {
+	font-size: large;
+	text-decoration: none;
+	border-left: solid 1px;
+	border-radius: 10px;
+	
+}
